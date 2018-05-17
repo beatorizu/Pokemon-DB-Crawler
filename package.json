@@ -1,0 +1,15 @@
+{
+  "name": "pokemondb-crawler",
+  "version": "1.0.0",
+  "description": "Using request to get all pokemon data :3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Beatriz Fonseca <betrizaf@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.86.0"
+  }
+}
